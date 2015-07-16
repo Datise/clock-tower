@@ -69,7 +69,7 @@ group :development, :test do
   gem 'factory_girl_rails'
   gem 'faker'
   gem 'pry'
-  gem 'pry-debugger'
+  #gem 'pry-debugger'
   gem 'dotenv-rails'
   gem 'quiet_assets'
 end
